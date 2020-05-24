@@ -1,1 +1,0 @@
-all=['zespolone','ciagi']
